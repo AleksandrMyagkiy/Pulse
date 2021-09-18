@@ -18,6 +18,16 @@
     "saas": "^1.0.0",
     "sass": "^1.39.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "cjs-module": "^1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandrMyagkiy/PULSE.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AleksandrMyagkiy/PULSE/issues"
+  },
+  "homepage": "https://github.com/AleksandrMyagkiy/PULSE#readme",
   "description": ""
 }
