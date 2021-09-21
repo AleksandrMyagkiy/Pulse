@@ -1,0 +1,30 @@
+.reviews {
+    min-height: 917px;
+    margin-bottom: 48px;
+    &__customer {
+        img {
+            vertical-align: top;
+            padding: 60px 0;
+        }
+    }
+    &__cust {
+        display: inline-block;
+        max-width: 740px;
+        padding: 52px 0 32px 62px;
+        color: #0D0D0D;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    &__subheader {
+        color: #0D0D0D;
+        font-weight: 700;
+        font-size: 18px;
+    }
+    &__descr {
+        color: #646464;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 22px;
+    }
+}
